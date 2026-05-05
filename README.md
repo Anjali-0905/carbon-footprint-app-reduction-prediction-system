@@ -26,14 +26,12 @@ pip install -r requirements.txt
 Run the app: 
 streamlit run app.py<img width="1029" height="705" alt="cfprs4" src="https://github.com/user-attachments/assets/ccc9018a-9a32-46cc-a28e-640ffea6b61b" />
 
-[energy_emissions_semireal.csv](https://github.com/user-attachments/files/27407696/energy_emissions_semireal.csv)
-[app.py](https://github.com/user-attachments/files/27407690/app.py)
-
 🎯 Use Cases
 Environmental awareness
 Academic projects
 Data science practice
 Carbon emission analysis
+
 Here are some images of this project
 1.Home Page user inputs energy consumption data here.
 <img width="1417" height="778" alt="new_cfprs" src="https://github.com/user-attachments/assets/cfabba80-b61f-4cef-ad7e-c1478d0154aa" />
